@@ -3,7 +3,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/jeffjiang13/movie-app">
+  <a href="https://github.com/albertboyd/movie-app">
     <img src="src/assets/cinema.png" alt="cinema" width="252" height="85">
   </a>
 
@@ -14,7 +14,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 To try out click here
-<a href="https://jj-movie-app.netlify.app" > DEMO
+<a href="https://albert-movie-app.netlify.app" > DEMO
 ## Tools
 
 * React
